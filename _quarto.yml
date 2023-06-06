@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Imani Maliti"
+  title: "Imani Oluwafumailayo Maliti"
   navbar:
     left:
       - href: index.qmd

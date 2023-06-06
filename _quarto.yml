@@ -10,7 +10,7 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
+      - icon: instagram
         href: https://twitter.com/
       - icon: github
         menu:
@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: sketchy
     toc: true
 
 editor: source
